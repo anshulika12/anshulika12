@@ -2,7 +2,7 @@
 🧠 Data Enthusiast | 🌐 GitHub Beginner
 
 🔬 About Me:
-I am a passionate data enthusiast with a strong curiosity for uncovering meaningful insights from complex datasets. I am fascinated by the power of data and its potential to drive informed decision-making and solve real-world problems. As a beginner on GitHub, I am excited to collaborate with the data community, learn from experienced practitioners, and contribute to open-source projects.
+I am a passionate data enthusiast with a strong curiosity for uncovering meaningful insights from complex datasets. I am fascinated by the power of data and its potential in data driven decision-making and solve real-world problems. As a beginner on GitHub, I am excited to collaborate with the data community, learn from experienced practitioners, and contribute to open-source projects.
 
 💼 Professional Experience:
 I'm looking to start my journey as a data analyst, where I want to gain hands-on experience in data manipulation, analysis, and visualization. I have already worked with SQL, Python, and data visualization tools like Tableau to extract valuable insights and communicate them effectively to stakeholders. I have also developed proficiency in data cleaning, exploratory data analysis (EDA), and basic statistical analysis techniques.
