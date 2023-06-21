@@ -29,6 +29,7 @@ I believe that data holds the key to uncovering valuable insights and shaping be
 
 🔍 Performed data analysis on a dataset consisting of 8,807 Netflix titles using Python, determining that 69.6% were movies and the United States was the primary content contributor.
 📈 Conducted sentiment analysis utilizing NLTK in Python, discovering 46.78% positive and 43.61% negative title reception. The analysis also identified a preference for mature content and showed the top five genres constituting over 50% of the content.
+Link - https://github.com/anshulika12/Netflix_eda/blob/main/netflix-data-visualization.ipynb
 
 
 2. 📞 Customer Service Request Analysis
@@ -37,6 +38,7 @@ I believe that data holds the key to uncovering valuable insights and shaping be
 
 📊 Processed and analyzed a detailed NYC 311 service request dataset using Python, refining data cleaning, datetime manipulation, and metric derivation skills.
 🧠 Developed expertise in data visualization and mining techniques, identifying four crucial patterns linked to service request frequency, response time, and location-based trends, enhancing my proficiency in pattern recognition and insightful analysis.
+Link - https://github.com/anshulika12/customer_service_project/blob/main/customer-service-request-analysis.ipynb
 
 
 3. 🛍️ Amazon Sales Exploratory Data Analysis
@@ -46,7 +48,7 @@ I believe that data holds the key to uncovering valuable insights and shaping be
 🧹 Cleaned and preprocessed a comprehensive dataset of over 1000 real products from the Amazon India marketplace using Python.
 🎨 Utilized Python's Matplotlib and Seaborn libraries to craft compelling visualizations, effectively communicating findings such as sales distribution, category-wise product count, and price trends.
 💡 The analysis provided valuable insights into Amazon India's marketplace and customer purchasing behaviors, valuable for devising targeted marketing and sales optimization strategies.
-
+Link - https://github.com/anshulika12/amazon_sales/blob/main/amazon-sales-clean-eda-sentiment-analysis.ipynb
 
 4. 💳 Online Payment Fraud Exploratory Data Analysis
 
@@ -54,3 +56,4 @@ I believe that data holds the key to uncovering valuable insights and shaping be
 
 🕵️‍♀️ Conducted an exhaustive analysis of an online payment transaction dataset with Python, finding fraud predominantly occurred in 'cashout' and 'transfer' modes and within certain transaction amount ranges (1.3-3.6 lakh). Noted significant shortcomings in the current fraud detection system, with 99.805% of fraud transactions incorrectly flagged.
 🚨 The project underscored the urgent necessity to enhance fraud detection techniques due to the growing dependence on online payments and to concentrate on high-risk transaction categories for improved preventive measures.
+Link - https://github.com/anshulika12/online_payment_fraud_analysis/blob/main/online-payment-fraud-detection-eda.ipynb
