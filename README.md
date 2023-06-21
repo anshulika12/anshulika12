@@ -19,7 +19,8 @@ I believe that data holds the key to uncovering valuable insights and shaping be
 #DataAnalyst #DataEnthusiast #DataAnalysis #Python #SQL #Tableau #OpenToCollaborate
 
 
-🚀 My Projects:
+
+###🚀 My Projects:
 
 1. 🎬 Netflix Movies and TV Shows Exploratory Data Analysis
 
@@ -27,12 +28,16 @@ I believe that data holds the key to uncovering valuable insights and shaping be
 
 🔍 Performed data analysis on a dataset consisting of 8,807 Netflix titles using Python, determining that 69.6% were movies and the United States was the primary content contributor.
 📈 Conducted sentiment analysis utilizing NLTK in Python, discovering 46.78% positive and 43.61% negative title reception. The analysis also identified a preference for mature content and showed the top five genres constituting over 50% of the content.
+
+
 2. 📞 Customer Service Request Analysis
 
 🗓️ May 2023 - June 2023
 
 📊 Processed and analyzed a detailed NYC 311 service request dataset using Python, refining data cleaning, datetime manipulation, and metric derivation skills.
 🧠 Developed expertise in data visualization and mining techniques, identifying four crucial patterns linked to service request frequency, response time, and location-based trends, enhancing my proficiency in pattern recognition and insightful analysis.
+
+
 3. 🛍️ Amazon Sales Exploratory Data Analysis
 
 🗓️ Mar 2023 - Apr 2023
@@ -40,6 +45,8 @@ I believe that data holds the key to uncovering valuable insights and shaping be
 🧹 Cleaned and preprocessed a comprehensive dataset of over 1000 real products from the Amazon India marketplace using Python.
 🎨 Utilized Python's Matplotlib and Seaborn libraries to craft compelling visualizations, effectively communicating findings such as sales distribution, category-wise product count, and price trends.
 💡 The analysis provided valuable insights into Amazon India's marketplace and customer purchasing behaviors, valuable for devising targeted marketing and sales optimization strategies.
+
+
 4. 💳 Online Payment Fraud Exploratory Data Analysis
 
 🗓️ Jun 2023
