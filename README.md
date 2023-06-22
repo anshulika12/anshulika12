@@ -23,29 +23,7 @@ I believe that data holds the key to uncovering valuable insights and shaping be
 
 🚀 My Projects:
 
-1. 🎬 Netflix Movies and TV Shows Exploratory Data Analysis
-
-🗓️ April 2023 - May 2023
-
-🔍 Performed data analysis on a dataset consisting of 8,807 Netflix titles using Python, determining that 69.6% were movies and the United States was the primary content contributor.
-
-📈 Conducted sentiment analysis utilizing NLTK in Python, discovering 46.78% positive and 43.61% negative title reception. The analysis also identified a preference for mature content and showed the top five genres constituting over 50% of the content.
-
-Link - https://github.com/anshulika12/Netflix_eda/blob/main/netflix-data-visualization.ipynb
-
-
-2. 📞 Customer Service Request Analysis
-
-🗓️ May 2023 - June 2023
-
-📊 Processed and analyzed a detailed NYC 311 service request dataset using Python, refining data cleaning, datetime manipulation, and metric derivation skills.
-
-🧠 Developed expertise in data visualization and mining techniques, identifying four crucial patterns linked to service request frequency, response time, and location-based trends, enhancing my proficiency in pattern recognition and insightful analysis.
-
-Link - https://github.com/anshulika12/customer_service_project/blob/main/customer-service-request-analysis.ipynb
-
-
-3. 🛍️ Amazon Sales Exploratory Data Analysis
+1. 🛍️ Amazon Sales Exploratory Data Analysis
 
 🗓️ Mar 2023 - Apr 2023
 
@@ -56,6 +34,31 @@ Link - https://github.com/anshulika12/customer_service_project/blob/main/custome
 💡 The analysis provided valuable insights into Amazon India's marketplace and customer purchasing behaviors, valuable for devising targeted marketing and sales optimization strategies.
 
 Link - https://github.com/anshulika12/amazon_sales/blob/main/amazon-sales-clean-eda-sentiment-analysis.ipynb
+
+
+2. 🎬 Netflix Movies and TV Shows Exploratory Data Analysis
+
+🗓️ April 2023 - May 2023
+
+🔍 Performed data analysis on a dataset consisting of 8,807 Netflix titles using Python, determining that 69.6% were movies and the United States was the primary content contributor.
+
+📈 Conducted sentiment analysis utilizing NLTK in Python, discovering 46.78% positive and 43.61% negative title reception. The analysis also identified a preference for mature content and showed the top five genres constituting over 50% of the content.
+
+Link - https://github.com/anshulika12/Netflix_eda/blob/main/netflix-data-visualization.ipynb
+
+
+3. 📞 Customer Service Request Analysis
+
+🗓️ May 2023 - June 2023
+
+📊 Processed and analyzed a detailed NYC 311 service request dataset using Python, refining data cleaning, datetime manipulation, and metric derivation skills.
+
+🧠 Developed expertise in data visualization and mining techniques, identifying four crucial patterns linked to service request frequency, response time, and location-based trends, enhancing my proficiency in pattern recognition and insightful analysis.
+
+Link - https://github.com/anshulika12/customer_service_project/blob/main/customer-service-request-analysis.ipynb
+
+
+
 
 4. 💳 Online Payment Fraud Exploratory Data Analysis
 
