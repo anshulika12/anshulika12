@@ -19,11 +19,6 @@ I am currently focused on expanding my technical skills in data analysis, explor
 - Basic Statistical Analysis
 
 
-🚀 Let's Dive into Data:
-I believe that data holds the key to uncovering valuable insights and shaping better decisions. I am thrilled to be a part of the data community and excited to contribute my skills as a data analyst. Let's make data-driven discoveries and create meaningful impact together!
-
-#DataAnalyst #DataEnthusiast #DataAnalysis #Python #SQL #Tableau #OpenToCollaborate
-
 
 
 
@@ -75,3 +70,11 @@ Link - https://github.com/anshulika12/customer_service_project/blob/main/custome
 🚨 The project underscored the urgent necessity to enhance fraud detection techniques due to the growing dependence on online payments and to concentrate on high-risk transaction categories for improved preventive measures.
 
 Link - https://github.com/anshulika12/online_payment_fraud_analysis/blob/main/online-payment-fraud-detection-eda.ipynb
+
+
+
+
+🚀 Let's Dive into Data:
+I believe that data holds the key to uncovering valuable insights and shaping better decisions. I am thrilled to be a part of the data community and excited to contribute my skills as a data analyst. Let's make data-driven discoveries and create meaningful impact together!
+
+#DataAnalyst #DataEnthusiast #DataAnalysis #Python #SQL #Tableau #OpenToCollaborate
