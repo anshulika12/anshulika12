@@ -69,7 +69,21 @@ Link - https://github.com/anshulika12/customer_service_project/blob/main/custome
 
 🚨 The project underscored the urgent necessity to enhance fraud detection techniques due to the growing dependence on online payments and to concentrate on high-risk transaction categories for improved preventive measures.
 
+
 Link - https://github.com/anshulika12/online_payment_fraud_analysis/blob/main/online-payment-fraud-detection-eda.ipynb
+
+
+5.📊 Amazon Sales Tableau Dashboard
+🗓️ July 2023 - August 2023
+
+🔧 Developed an interactive Amazon Sales Dashboard using Tableau, aimed at presenting real-time insights into sales performance, customer behavior, and product trends.
+
+🎨 The dashboard integrates dynamic charts and graphs, enhancing data visualization. It allows stakeholders to delve into detailed sales data by region, product category, and time periods.
+
+💼 The project facilitated a better understanding of data-driven decision-making in a real-world business context, exploring the potential of visually represented data to influence strategic decisions
+
+
+Link-[https://github.com/anshulika12/amazon_sales_dashboard](https://github.com/anshulika12/amazon_sales_dashboard/blob/main/amazon_sales_dashboard.png)
 
 
 
